@@ -1,0 +1,18 @@
+[project]
+name = "minisense"
+version = "0.1.0"
+description = "Multi-agent survey analysis system with customer satisfaction metrics, FAQ retrieval, and period comparisons"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "chromadb>=1.5.9",
+    "fastapi>=0.158.0",
+    "httpx>=0.28.1",
+    "numpy>=2.4.6",
+    "pandas>=3.0.6",
+    "pydantic>=2.14.1",
+    "pytest>=9.1.1",
+    "python-dotenv>=1.2.4",
+    "sentence-transformers>=6.2.0",
+    "uvicorn[standard]>=0.54.0",
+]

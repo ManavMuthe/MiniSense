@@ -1,0 +1,35 @@
+# GreenLeaf Bistro — Customer Service and Product FAQ
+
+## 1. Business Overview
+
+GreenLeaf Bistro is a casual dining business that serves fresh meals, beverages, and healthy food options. Its popular menu items include Avocado Toast, Garden Bowl, and Cold Brew. Customer satisfaction is evaluated using post-purchase surveys that collect ratings from 1 to 5 and optional written feedback. The business uses these responses to monitor food quality, service efficiency, staff behavior, cleanliness, pricing, and order accuracy.
+
+## 2. Popular Menu Items
+
+Avocado Toast is a popular breakfast item. Customers may report concerns about freshness, preparation, portion size, or presentation. The Garden Bowl is a healthy meal option that may contain fresh vegetables and other listed ingredients. Staff should accurately communicate ingredients and accommodate requests when operationally possible. Cold Brew is a chilled coffee beverage. Customers may raise concerns about taste, temperature, consistency, or preparation.
+
+When a customer reports a food-quality problem, staff should acknowledge the concern, document the issue, and follow the appropriate replacement or refund procedure. Staff should not promise a refund or replacement before confirming that the request complies with the applicable policy.
+
+## 3. Waiting-Time Expectations
+
+GreenLeaf Bistro aims to keep customer waiting times below 10 minutes during off-peak periods. During peak periods, the expected waiting time is approximately 15–20 minutes. Actual waiting times may vary with order volume and operational conditions.
+
+Staff should communicate realistic waiting-time estimates, especially when the restaurant is busy. If an order is delayed beyond the expected time, staff should provide an update and investigate the reason for the delay. Repeated delays should be documented so that management can investigate staffing, preparation, and order-routing issues.
+
+## 4. Complaints and Service Recovery
+
+Customer complaints should be acknowledged promptly and handled professionally. Complaints requiring escalation should be escalated within 15 minutes. Staff should record the nature of the complaint, the affected order where applicable, the action taken, and whether further follow-up is required.
+
+For verified food-quality issues, the available service-recovery options include a refund or replacement, subject to the applicable policy. Staff should explain the available options clearly and avoid blaming the customer or other employees. Recurring complaints should be reviewed by management to identify operational problems rather than treating every incident as an isolated event.
+
+## 5. Customer Satisfaction Targets
+
+GreenLeaf Bistro's target customer satisfaction score is 4.5 or higher on a five-point rating scale. Scores below 4.0 trigger a root-cause review. Management should examine relevant survey comments, response trends, business locations, survey types, and service conditions before deciding on corrective action.
+
+CSAT in this project is calculated as the percentage of valid survey ratings that are 4 or 5. Average rating is calculated as the arithmetic mean of valid ratings from 1 to 5. These measures provide complementary information: CSAT shows the proportion of satisfied respondents, while average rating reflects the overall rating distribution.
+
+## 6. Survey Analysis and Continuous Improvement
+
+Survey feedback should be analyzed for recurring themes, including food quality, waiting time, staff behavior, cleanliness, pricing, and order accuracy. Managers should compare reporting periods before attributing changes to a particular cause. A rise in waiting-time complaints, for example, may justify investigating peak-hour staffing and preparation workflows, but survey comments alone do not prove the underlying cause.
+
+Recommended actions should be proportionate to the evidence. Management should track whether corrective actions improve subsequent ratings and reduce repeated complaints. Customer feedback should be used constructively to improve the dining experience, service consistency, and operational decision-making.
