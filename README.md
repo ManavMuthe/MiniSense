@@ -95,9 +95,9 @@ The system uses four specialized agents coordinated by an orchestrator.
 
 ```text
 minisense/
+├── main.py
 ├── app/
 │   ├── __init__.py
-│   ├── main.py
 │   ├── agents/
 │   │   ├── __init__.py
 │   │   ├── orchestrator.py
@@ -130,12 +130,11 @@ minisense/
 │   └── test_summary_agent.py
 ├── pyproject.toml
 ├── uv.lock
-├── .env.example
 ├── .gitignore
 └── README.md
 ```
 
-The structure above describes the expected project layout. Files such as `app/main.py`, `.env.example`, or `uv.lock` should be included only if they actually exist in your working directory.
+The structure above describes the expected project layout. Files such as `main.py`, `.env.example`, or `uv.lock` should be included only if they actually exist in your working directory.
 
 ## 5. Setup
 
